@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+h1{
+  color:yellow;
+}
+h2{
+  color: white;
+}
+body{
+  background-color: grey;
+}
+input{
+padding:1em;
+border: .3em solid black;
+width: 50%;
+font-size: 120%;
+text-align: center;
+}
